@@ -1,6 +1,7 @@
 # nft-collection-generator
 
 <img src="./random.gif"/>
+
 ### Collection metatdata baseURI
   - `ipfs://QmUAFk7DgEfkhp1mBEcWivM96SWAGWsWKEv3sQGXhieLzL/`
 
